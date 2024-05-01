@@ -12,4 +12,4 @@
 ![Program Output](/image/output.png)
 
 ## Git Commands
-![Git Commands](image/git_comand.png)
+![Git Commands](/image/git_comand.png)
