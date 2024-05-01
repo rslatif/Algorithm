@@ -13,4 +13,4 @@
 
 ## Git Commands
 
-![Program Output](/image/git_comand.png)
+![Program Output](/image/GIT-Comand.png)
