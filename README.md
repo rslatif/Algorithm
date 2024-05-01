@@ -9,7 +9,7 @@
 * Repeat the steps until all nodes have been visited.
 
 ## Program Output
-![Program Output](images/output.png)
+![Program Output](/image/output.png)
 
 ## Git Commands
-![Git Commands](images/GIT-Comannd.png)
+![Git Commands](image/git_comand.png)
